@@ -1,0 +1,5 @@
+portfolio_manage
+*.pyc
+.DS_Store
+.env
+.vscode
